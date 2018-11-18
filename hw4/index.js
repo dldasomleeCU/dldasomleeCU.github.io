@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      ''It's all over, Mrs. Thingummy!' said the surgeon at last.',
+      'It's all over, Mrs. Thingummy! said the surgeon at last.',
   'example2':
       'Circumambulate the city of a dreamy Sabbath afternoon. Go from CorlearsHook to Coenties Slip, and from thence, by Whitehall, northward.',
   'example3':
