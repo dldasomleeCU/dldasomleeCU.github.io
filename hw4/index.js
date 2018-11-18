@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'It's all over, Mrs. Thingummy!' said the surgeon at last.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Circumambulate the city of a dreamy Sabbath afternoon. Go from CorlearsHook to Coenties Slip, and from thence, by Whitehall, northward.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'In England, there was scarcely an amount of order and protection to justify much national boasting.'      
 };
 
 function status(statusText) {
